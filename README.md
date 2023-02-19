@@ -1,2 +1,2 @@
 # reddit-posts
-Automate posting to multiple communites on Reddit
+Automate posting to multiple communities on Reddit
