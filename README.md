@@ -2,7 +2,7 @@
 
   # Reddit posts
 
-  ![]()
+  ![](https://github.com/oliviagallucci/reddit-posts/blob/main/images/reddit-posts.gif)
   
   Automate posting to multiple communities on Reddit
   
