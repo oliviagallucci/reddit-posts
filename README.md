@@ -1,6 +1,8 @@
 <div align="center">
 
   # Reddit posts
+  
+  (under development) 
 
   ![](https://github.com/oliviagallucci/reddit-posts/blob/main/images/reddit-posts.gif)
   
